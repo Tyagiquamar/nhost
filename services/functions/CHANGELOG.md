@@ -1,3 +1,9 @@
+## [functions@2.3.4] - 2026-10-25
+
+### Chore
+
+- *(deps)* Update vulnerable dependencies (#5256)
+
 ## [functions@2.3.3] - 2026-10-23
 
 ### 🐛 Bug Fixes
